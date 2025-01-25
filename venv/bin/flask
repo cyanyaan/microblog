@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/thinkpad/Documents/Programming Projects/microblog/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/thinkpad/Documents/proj/microblog/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
